@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CurneuAssesment1", "CurneuAssesment1\CurneuAssesment1.pyproj", "{82DD1CC9-BFAC-4CC1-8C3B-28BF7D8C3520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82DD1CC9-BFAC-4CC1-8C3B-28BF7D8C3520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DD1CC9-BFAC-4CC1-8C3B-28BF7D8C3520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B83A5BE3-36BB-4AEB-92EF-B85B47FB7F2D}
+	EndGlobalSection
+EndGlobal
